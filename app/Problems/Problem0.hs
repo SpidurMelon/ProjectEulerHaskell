@@ -1,4 +1,4 @@
-module Zero where
+module Problems.Problem0 where
 
 squares :: [Integer]
 squares = squareHelper 1
@@ -13,4 +13,3 @@ solve :: Integer
 solve = sum (filter odd (take 703000 squares))
 
 -- >>> solve
--- 57904821166549500
