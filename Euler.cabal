@@ -62,7 +62,7 @@ executable Euler
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
-    other-modules: Util Problems.Problem0 Problems.Problem1 Problems.Problem2 Problems.Problem3
+    other-modules: Util Problems.Problem0 Problems.Problem1 Problems.Problem2 Problems.Problem3 Problems.Problem4
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
