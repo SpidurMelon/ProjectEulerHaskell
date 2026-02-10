@@ -64,6 +64,7 @@ executable Euler
     -- Modules included in this executable, other than Main.
     other-modules: Util Problems.Problem0 
         Problems.Problem1 Problems.Problem2 Problems.Problem3 Problems.Problem4 Problems.Problem5
+        Problems.Problem6
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
